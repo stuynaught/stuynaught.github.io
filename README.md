@@ -1,1 +1,1 @@
-# stuynaught.github.io
+# StuyNaught - Stuyvesant High School's Zero Robotics Team
