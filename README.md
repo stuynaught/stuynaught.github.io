@@ -1,1 +1,2 @@
-# StuyNaught - Stuyvesant High School's Zero Robotics Team
+# StuyNaught
+#### Stuyvesant High School's Zero Robotics Team
