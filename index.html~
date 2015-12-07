@@ -219,8 +219,8 @@
 				<!--
 				<div class="col-12 col-sm-2"><img src="images/client01.png" alt=""></div>
 				-->
-				<div class="col-12 col-sm-2"><img src="images1/2468logo1.png" alt=""></div>
-				<div class="col-12 col-sm-2"><img src="images1/herderberlin.png" alt=""></div>
+				<div class="col-12 col-sm-2"><img src="images1/2468logo.png" alt=""></div>
+				<div class="col-12 col-sm-2"><img src="images1/herderberlin.svg" alt=""></div>
 				<!--
 				<div class="col-12 col-sm-2"><img src="images/client04.png" alt=""></div>
 				<div class="col-12 col-sm-2"><img src="images/client05.png" alt=""></div>
@@ -253,16 +253,20 @@
 				</div>
 				  -->
 				<!-- /col12 -->
-				
 				<div class="col-12 col-sm-2 with-hover-text">
-					<p><a target="_blank" href="mailto:pbrooks@micromind.com"><i class="icon icon-envelope"></i></a></p>
+					
+				</div>
+				<div class="col-12 col-sm-2 with-hover-text">
+					<p><a target="_blank" href="mailto:pbrooks@micromind.com"><i class="icon icon-mail"></i></a></p>
 					<span class="hover-text font-light ">Peter Brooks</span></a>
 				</div><!-- /col12 -->
 				<div class="col-12 col-sm-2 with-hover-text">
 					<p><a target="_blank" href="http://stuy.enschool.org/"><i class="icon icon-home"></i></a></p>
 					<span class="hover-text font-light ">Stuyvesant<br>High School</span></a>
 				</div><!-- /col12 -->
-				
+				<div class="col-12 col-sm-2 with-hover-text">
+					
+				</div>
 				<!--
 				<div class="col-12 col-sm-2 with-hover-text">
 					<p><a target="_blank" href="#"><i class="icon icon-facebook"></i></a></p>
