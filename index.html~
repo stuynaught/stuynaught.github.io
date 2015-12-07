@@ -66,16 +66,16 @@
 	<div class="slide story" id="slide-1" data-slide="1">
 		<div class="container">
 			<div id="home-row-1" class="row clearfix">
-				<div class="col-12">
+				<div class="col-12" style="color: red">
 					<h1 class="font-semibold">STUY<span class="font-thin">NAUGHT</span></h1>
 					<h4 class="font-thin">We are a high school <span class="font-semibold">Zero Robotics team</span> based in New York.</h4>
 				</div><!-- /col-12 -->
 			</div><!-- /row -->
 		
 			<div id="home-row-2" class="row clearfix">
-				<div class="col-12 col-sm-4"><div class="home-hover" data-slide="4"><img src="images/s02.png"></div><span>2015-2016</span></div>
-				<div class="col-12 col-sm-4"><div class="home-hover navigation-slide" data-slide="3"><img src="images/s01.png"></div><span>SPY</span></div>
-				<div class="col-12 col-sm-4"><div class="home-hover navigation-slide" data-slide="5"><img src="images/s03.png"></div><span>SPHERES</span></div>
+				<div class="col-12 col-sm-4"><div class="home-hover"><img src="images/s02.png"></div><span>2015-2016</span></div>
+				<div class="col-12 col-sm-4"><div class="home-hover"><img src="images/s01.png"></div><span>SPY</span></div>
+				<div class="col-12 col-sm-4"><div class="home-hover"><img src="images/s03.png"></div><span>SPHERES</span></div>
 			</div>
 			<!-- /row -->
 		</div><!-- /container -->
@@ -216,15 +216,18 @@
 			</div><!-- /row -->
 			<div class="row content-row">
 				<div class="col-1 col-sm-1 hidden-sm">&nbsp;</div>
+				
+				<div class="col-12 col-sm-2"></div>
 				<!--
 				<div class="col-12 col-sm-2"><img src="images/client01.png" alt=""></div>
 				-->
-				<div class="col-12 col-sm-2"><img src="images1/2468logo.png" alt=""></div>
-				<div class="col-12 col-sm-2"><img src="images1/herderberlin.svg" alt=""></div>
+				<div class="col-12 col-sm-2"><img src="images1/2468logo1.png" alt=""></div>
+				<div class="col-12 col-sm-2"><img src="images1/herderberlin.png" alt=""></div>
 				<!--
 				<div class="col-12 col-sm-2"><img src="images/client04.png" alt=""></div>
 				<div class="col-12 col-sm-2"><img src="images/client05.png" alt=""></div>
 				-->
+				<div class="col-12 col-sm-2"></div>
 				<div class="col-1 col-sm-1 hidden-sm">&nbsp;</div>
 			</div><!-- /row -->
 		</div><!-- /container -->
@@ -253,20 +256,16 @@
 				</div>
 				  -->
 				<!-- /col12 -->
+				<div class="col-12 col-sm-2">
 				<div class="col-12 col-sm-2 with-hover-text">
-					
-				</div>
-				<div class="col-12 col-sm-2 with-hover-text">
-					<p><a target="_blank" href="mailto:pbrooks@micromind.com"><i class="icon icon-mail"></i></a></p>
+					<p><a target="_blank" href="mailto:pbrooks@micromind.com"><i class="icon icon-envelope"></i></a></p>
 					<span class="hover-text font-light ">Peter Brooks</span></a>
 				</div><!-- /col12 -->
 				<div class="col-12 col-sm-2 with-hover-text">
 					<p><a target="_blank" href="http://stuy.enschool.org/"><i class="icon icon-home"></i></a></p>
 					<span class="hover-text font-light ">Stuyvesant<br>High School</span></a>
 				</div><!-- /col12 -->
-				<div class="col-12 col-sm-2 with-hover-text">
-					
-				</div>
+				<div class="col-12 col-sm-2">
 				<!--
 				<div class="col-12 col-sm-2 with-hover-text">
 					<p><a target="_blank" href="#"><i class="icon icon-facebook"></i></a></p>
