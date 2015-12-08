@@ -230,7 +230,7 @@ body {
     	-o-background-size: 100%;
     	*/
 /*
-	background-image: url('../images1/bg.png');
+	background-image: url('../images1/colorful_background.png');
 	color: #ffffff;
 	-webkit-background-size: 100%;
 	-moz-background-size: 100%;
@@ -624,4 +624,46 @@ body {
 
 .navigation-slide {
 	cursor: pointer;
+}
+
+.intro-background {
+/*
+    position: fixed;
+    height: 100%;
+    width: 100%;
+    background: url(../images1/colorful_background.png) no-repeat center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    
+    -webkit-background-size: 100%;
+	-moz-background-size: 100%;
+	-o-background-size: 100%;
+	background-size: 100%;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-attachment: relative;
+*/
+	position: absolute;
+	background-image: url('../images1/colorful_background.png');
+	color: #ffffff;
+	-webkit-background-size: 100%;
+	-moz-background-size: 100%;
+	-o-background-size: 100%;
+	background-size: 100%;
+
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	width: 100%;
+	background-attachment: relative;
+	background-position: center center;
+}
+
+#starfield {
+  height: inherit;
+  width: inherit;
+  opacity: 60%
 }
