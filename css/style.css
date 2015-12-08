@@ -216,26 +216,32 @@ body {
 }
 
 #slide-1 {
+	/*
 	position: fixed;
 	height: 100%;
 	width: 100%;
 	background: url(../images1/bg.png) no-repeat center center;
 	background-size: cover;
 	background-repeat: no-repeat;
-	background-position: 50% 50%;	
-/*
-	background-image: url('../images1/Bridge.jpg');
+	background-position: 50% 50%;
 	color: #ffffff;
-    -webkit-background-size: 100%;
-    -moz-background-size: 100%;
-    -o-background-size: 100%;
-    background-size: 100%;
+    	-webkit-background-size: 100%;
+    	-moz-background-size: 100%;
+    	-o-background-size: 100%;
+    	*/
+/*
+	background-image: url('../images1/bg.png');
+	color: #ffffff;
+	-webkit-background-size: 100%;
+	-moz-background-size: 100%;
+	-o-background-size: 100%;
+	background-size: 100%;
 
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
-    width: 100%;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	width: 100%;
 	background-attachment: relative;
 	background-position: center center;
 */
