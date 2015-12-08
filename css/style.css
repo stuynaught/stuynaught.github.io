@@ -216,6 +216,14 @@ body {
 }
 
 #slide-1 {
+	position: fixed;
+	height: 100%;
+	width: 100%;
+	background: url(../imgs/bg.png) no-repeat center center;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: 50% 50%;	
+/*
 	background-image: url('../images1/Bridge.jpg');
 	color: #ffffff;
     -webkit-background-size: 100%;
@@ -230,6 +238,7 @@ body {
     width: 100%;
 	background-attachment: relative;
 	background-position: center center;
+*/
 }
 
 #slide-1 h1 {
