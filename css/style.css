@@ -648,7 +648,7 @@ body {
 	position: fixed;
 	right: 0px;
 	left: 0px;
-	background-image: url('../images1/colorful_background.png');
+	/* background-image: url('../images1/colorful_background.png'); */
 	color: #ffffff;
 	-webkit-background-size: 100%;
 	-moz-background-size: 100%;
