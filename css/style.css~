@@ -230,7 +230,7 @@ body {
     	-o-background-size: 100%;
     	*/
 /*
-	background-image: url('../images1/colorful_background.png');
+	background-image: url('../images1/bg.png');
 	color: #ffffff;
 	-webkit-background-size: 100%;
 	-moz-background-size: 100%;
