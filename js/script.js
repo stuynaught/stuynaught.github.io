@@ -5,7 +5,7 @@ $(document).ready(function(e) {
 	});
 	
 	
-  	$('#slide-1').particleground({
+  	$('#starfield').particleground({
 		dotColor: '#DDDDDD',
     		lineColor: 'rgba(255, 255, 255, .2)',
     		particleRadius: 3,
