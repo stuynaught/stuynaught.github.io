@@ -625,3 +625,19 @@ body {
 .navigation-slide {
 	cursor: pointer;
 }
+
+.intro-background {
+    position: fixed;
+    height: 100%;
+    width: 100%;
+    background: url(../imgs/bg.png) no-repeat center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+}
+
+#starfield {
+  height: inherit;
+  width: inherit;
+  opacity: 60%
+}
